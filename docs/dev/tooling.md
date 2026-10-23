@@ -128,13 +128,14 @@ description: Developer tooling and infrastructure partners on MegaETH — RPC pr
 
 ## Developer Tooling
 
-| Tool                                                   | Type                                                         | Get Started                                                                        | Mainnet   |
-| ------------------------------------------------------ | ------------------------------------------------------------ | ---------------------------------------------------------------------------------- | --------- |
-| [MOSS SDK](https://joinmoss.megaeth.com)               | TypeScript SDK, React hooks, wagmi connector                 | [Docs](https://docs.megaeth.com/moss-docs)                                         | Supported |
-| [MOSS CLI](https://github.com/megaeth-labs/wallet-cli) | Scoped delegated keys, transfers, contract calls, automation | [Docs](https://docs.megaeth.com/moss-docs/wallet/cli)                              | Supported |
-| [Tenderly](https://tenderly.co)                        | Debugging, simulation, alerts                                | [Docs](https://docs.tenderly.co)                                                   | Planned   |
-| [mega-evm](https://github.com/megaeth-labs/mega-evm)   | EVM debugger / tx replay                                     | [Docs](https://github.com/megaeth-labs/mega-evm/blob/main/bin/mega-evme/README.md) | Supported |
-| [Blocksec Phalcon](https://blocksec.com/phalcon)       | Transaction debugging & simulation                           | [App](https://blocksec.com/phalcon/explorer)                                       | Supported |
+| Tool                                                   | Type                                                          | Get Started                                                                        | Mainnet   |
+| ------------------------------------------------------ | ------------------------------------------------------------- | ---------------------------------------------------------------------------------- | --------- |
+| [MOSS SDK](https://joinmoss.megaeth.com)               | TypeScript SDK, React hooks, wagmi connector                  | [Docs](https://docs.megaeth.com/moss-docs)                                         | Supported |
+| [MOSS CLI](https://github.com/megaeth-labs/wallet-cli) | Scoped delegated keys, transfers, contract calls, automation  | [Docs](https://docs.megaeth.com/moss-docs/wallet/cli)                              | Supported |
+| [Tenderly](https://tenderly.co)                        | Debugging, simulation, alerts                                 | [Docs](https://docs.tenderly.co)                                                   | Planned   |
+| [mega-evm](https://github.com/megaeth-labs/mega-evm)   | EVM debugger / tx replay                                      | [Docs](https://github.com/megaeth-labs/mega-evm/blob/main/bin/mega-evme/README.md) | Supported |
+| [Blocksec Phalcon](https://blocksec.com/phalcon)       | Transaction debugging & simulation                            | [App](https://blocksec.com/phalcon/explorer)                                       | Supported |
+| [eRPC](https://github.com/erpc/erpc)                   | Self-hosted RPC proxy: failover, caching, rate-limit handling | [Docs](https://docs.erpc.cloud)                                                    | Supported |
 
 ---
 
